@@ -1,1 +1,4 @@
-# 15418-prject
+# 15418-project
+# Image/Video Retargeting on CUDA
+
+
